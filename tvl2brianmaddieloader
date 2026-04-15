@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/brianemaddielindas/supremasdocoven/main/tvl2maddiexbrianend"
+local url = "https://raw.githubusercontent.com/brianemaddielindas/supremasdocoven/refs/heads/main/tvl2maddiexbrianend"
 local encoded = game:HttpGet(url .. "?t=" .. tick())
 
 local function efefefef2(data)
